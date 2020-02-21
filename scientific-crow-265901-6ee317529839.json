@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "scientific-crow-265901",
+  "private_key_id": "6ee3175298398c2e8bb87444cc47b61b45888f94",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsdMqMPshkHHiG\nZY2qHAI7LVGQYDrA+OeM1DvGX/jjc3Remad4IpwQfOH490Fo/fg7XBX36pwDcplS\n1sVZs/J75QY2ZrPEfi2SVVUcLilKiTqjcx3Tpdkp/UzScIJinWQUoU9eH4QJvDIg\nruAzyUG++5tPruEgwjOw36yFMG1hFXyRsnhbvJnLeso2ZxsLbKtnhxjlcYTD8EjX\njNz1obHYrb1jBopbXSTXm4HWF/k2WsLqSKbhuTA3DdcWuyKpGgVYxjzjayG5TkCS\nsbz1E6RJoTEznywoypCkY0FfEksMrtYXWUorqpiq1CcIT9QhZhWXUN1ZCiIjh1cF\ni++lZQ/HAgMBAAECggEAQVnyFRrRBaI8yWBN7AL7tuFKlq2R732beXe64ZPq1Oo2\n8mJjP7fJDGGHjui/YkY3EijcRX3JCsbki1mih61NSmK8+dIewyLgc340HKrBbMFK\nvJv3VWSUBZ/lWJAR6TF41J7Usb3iH1KtRA0xF/76tc8SWM6LmCM0aCEZrGH7CQaA\nNtmYceTvjrJxIIvvobmK4utYnhmHu28IvQYAJ/3RonUg7ZWEk30Pv0NgPiolYs4O\nqPYK3t+y4Zo+282nFCPYRQMQGtSuE762QKJfjCHGgR4c9anWUxXHta/kU9L/nwWn\nzhls1rjMP/3lqtkKcoIAnY75n9mMw+4IsJtvu3HE+QKBgQD6gcpeJ5Lalr9Figq4\nZrjdMIOML5RVg28GEq0tEPcEBy73znG2uzUEOhRoSUfBYVQoZW1UNBDMmuX0ymDW\nzZKrAI2MXNyvc1mLpqLfKh2TTHcEDKuP5ew8l+1dTa9otQk8bkvBSFtbRom20o+o\nz0P8EQ7lBEqy0FphfVayXwShcwKBgQDxpCCW+0GZDP02lfyWAmBwAjU1CLZj+G1q\nOpwHClxw9KJpONlCP5ZzPDPnJHI1XAXOOBLbGJVwhhPWDtYmWaSafARSw/gxyk4P\nCEm3NyJohOiC1SK7TKlYQPx4RpgiA3MhyJTZhHb7zRpKUljK7DIyLfF6Ke9aVHNS\nLqRonCGzXQKBgHBlncQDI4v6SVXNKyQzysxLwSo8CuUXdNAXvyXST9K52mQLd9AS\nTSZZXOCxyIVGwzjg0V4Pgl4bPgRIbYzTbfRV6izJWadLLSlQmhFhVyXJEDl76dpF\nwmopjLHpckObvsojfs/5RCw/CPlDnnuSi6FkkfdFprJ2c6b8UtLzeSNrAoGABV9B\nvjmNxspMIteIywj4feT+q9QqweQ3AoKVD28CiRxXNAGoitmBDcTL3pqn01ndYy1J\n9gcA44SHkl24ExgxGaIiMnja3riBrcHgaatXH3288ZOtdv6IUUb4le/z1+W9vIWK\nEZ/pSUXRDM/x22kO4KC22qFuCdMQ0UXqL80wzp0CgYEA2lxYc+hj9bjQDOn366YF\nFhiAUe6FeoSfc5ZcYxxdnxlMo1URB7bnSnKS7g8prut2Fcrnz15cu/uYrGITPJFt\nD1gxNnNTuwWWucbFd2weOJZWYYGi5dDDhgRAAXIwBOozxh8sMBhkNZzm1H29ilM1\nTd7LuWlK6KQAAsTvDI1XFX4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jewett-app-973@scientific-crow-265901.iam.gserviceaccount.com",
+  "client_id": "117104126899990633231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jewett-app-973%40scientific-crow-265901.iam.gserviceaccount.com"
+}
